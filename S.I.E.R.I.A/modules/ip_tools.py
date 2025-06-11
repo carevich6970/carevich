@@ -5,6 +5,7 @@ from colorama import Fore, Style
 from utils.texts import t
 from utils.helpers import clear_screen
 
+
 def get_ip_info():
     try:
         external_ip = requests.get('https://api.ipify.org').text
