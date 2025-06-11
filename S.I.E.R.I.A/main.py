@@ -37,7 +37,7 @@ def main():
             '01': card_generator,
             '02': fake_transfer,
             '03': phishing,
-            '04': ip_tools,
+            
             '05': bruteforce,
             '06': vulnerability_scanner,
             '07': malware_generator,
