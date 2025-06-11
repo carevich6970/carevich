@@ -1,0 +1,7 @@
+colorama
+requests
+scapy
+python-nmap
+paramiko
+cryptography
+stem
